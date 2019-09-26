@@ -1,0 +1,2 @@
+# InformationWanted
+This git repository is the public repository for the Last Seen: Finding Family After Slavery project (https://informationwanted.org). It contains all the scanned images and metadata created for the project as a secondary point of acquisition. Users are instead encouraged to use the InformationWanted open API to harvest the metadata, located at https://informationwanted.org/api/resources
